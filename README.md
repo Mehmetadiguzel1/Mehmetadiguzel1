@@ -22,9 +22,9 @@ const anmol = {
             js: ["Node", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"],
-			native: ["React Native"],
-			native: [IOS Development],
+            	native: ["Android Development"],
+	    	native: ["React Native"],
+	  	native: ["IOS Development"],
         },
         devOps: ["AWS"],
         databases: ["MySql", "sqlite"],
