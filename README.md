@@ -10,7 +10,7 @@ I'm frontend developer
 
 **👆 This command line tool can be found at**
 
-### < width="50"> A little more about me...  
+###  A little more about me...  
 
 ```javascript
 const Mehmet = {
