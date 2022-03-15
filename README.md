@@ -16,7 +16,7 @@ I'm frontend developer
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "React"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "mobile app dev", "app dev"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
@@ -28,7 +28,8 @@ const anmol = {
         },
         devOps: ["AWS"],
         databases: ["MySql", "sqlite"],
-        misc: ["Firebase", ]
+        misc: ["Firebase", ],
+	design:["Figma", "XD"],
     },
     
     funFact: "There are two ways to write error-free programs; only the third one works"
