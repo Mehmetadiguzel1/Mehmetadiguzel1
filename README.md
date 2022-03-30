@@ -4,8 +4,6 @@
 
 I'm frontend developer
 
-**👆 This command line tool can be found at**
-
 ###  A little more about me...  
 
 ```javascript
