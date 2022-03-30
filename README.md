@@ -1,8 +1,6 @@
 <h2>Hey!, I'm Mehmet Adiguzel</h2>
 <p>Frontend Developer</p>
 
-[![Linkedin: Mehmet](https://www.linkedin.com/in/mehmet-adiguzel-195891167//)]
-![GitHub followers](https://github.com/Mehmetadiguzel1)
 
 ### Something in here
 
