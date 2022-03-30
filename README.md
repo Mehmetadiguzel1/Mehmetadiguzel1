@@ -1,6 +1,4 @@
 <h2>Hey!, I'm Mehmet Adiguzel</h2>
-<p>Frontend Developer</p>
-
 
 ### Something in here
 
